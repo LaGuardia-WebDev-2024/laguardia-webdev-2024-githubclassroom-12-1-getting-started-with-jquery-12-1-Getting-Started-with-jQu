@@ -26,5 +26,5 @@ Inside the second `<script>` tag, use the line of code that we showed you to rep
 <br><br>We will explain much more about how that line of code works in the next talk-through.
 <br><br>
 _Hint:_
-`$(h1).text()`
+`$("h1").text()`
 
